@@ -1,0 +1,12 @@
+__pycache_/
+*.pyc[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+.venv
+
+node_modules/
+notebook/.ipynb_checkpoints/
+notas.md
