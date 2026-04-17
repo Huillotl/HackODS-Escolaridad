@@ -12,3 +12,5 @@ Esta libreta solo se enfoca en el tratamiento previo de los datos,una vez ejecut
 Posteriormente se deberan extraer en la carpeta ´../data/´. Una vez hecho esto se puede ejecutar el cuaderno si errores
 
  Los censos poblacionales contemplan mas de 150 campos y registran todas las localidades del pais. Se **extrajeron solamente** datos del nivel de escolaridad por estado del pais y promedio nacional.
+
+ [Prueba de una imagen](/imagenes/yo.jpg)
